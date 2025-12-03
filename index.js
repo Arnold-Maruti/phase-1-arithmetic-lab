@@ -3,7 +3,9 @@
 let num1=2;
 let num2=31;
 let multiply=num1*num2;
-
+// Math.round() rounds the number up or down 
+// while Math.ceil() rounds the number up 
+// and Math.floor() rounds the number down
 let random=Math.floor(Math.random()*10);
 let num3=9;
 let num4=5;
